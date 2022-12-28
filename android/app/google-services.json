@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "453318196912",
+    "firebase_url": "https://sferatz-default-rtdb.firebaseio.com",
+    "project_id": "sferatz",
+    "storage_bucket": "sferatz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453318196912:android:2d8aee96f778b7c8464575",
+        "android_client_info": {
+          "package_name": "com.example.sferatz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453318196912-sqtbvofc9kujdo28h37kjs2l57thgt66.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCufsRUJE8L9M7_pngwDQmTe3_krYgyKVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453318196912-sqtbvofc9kujdo28h37kjs2l57thgt66.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

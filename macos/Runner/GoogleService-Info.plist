@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>453318196912-of6a7bmnsjgj3lgn25hnip8a5dne3hrp.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.453318196912-of6a7bmnsjgj3lgn25hnip8a5dne3hrp</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCZbNPc67A9SR1iXXOLG6k4jVbWeNPN80I</string>
+	<key>GCM_SENDER_ID</key>
+	<string>453318196912</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.sferatz</string>
+	<key>PROJECT_ID</key>
+	<string>sferatz</string>
+	<key>STORAGE_BUCKET</key>
+	<string>sferatz.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:453318196912:ios:e30d6dff8d25b75f464575</string>
+	<key>DATABASE_URL</key>
+	<string>https://sferatz-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
